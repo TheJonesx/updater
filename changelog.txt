@@ -1,0 +1,9 @@
+Version 1.0.0
+- Erstes Release
+- Dashboard hinzugefügt
+- Server Tools Ansicht
+
+Version 1.0.1
+- Topbar Design verbessert
+- Farben angepasst
+- Tooltips verbessert
