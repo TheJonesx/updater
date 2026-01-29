@@ -1,19 +1,19 @@
 {
   "version": "1.0.1",
   "releaseDate": "2026-01-29",
-  "downloadUrl": "https://github.com/TheJonesx/updater/releases/download/v1.0.1/",
+  "downloadUrl": "https://raw.githubusercontent.com/TheJonesx/updater/main/files/",
   "files": [
-    "MSMCreator.runtimeconfig.json",
-    "MSMCreator.deps.json",
-    "MSMCreator.pdb",
     "MSMCreator.exe",
     "MSMCreator.dll",
+    "MSMCreator.deps.json",
+    "MSMCreator.runtimeconfig.json",
     "GrannyWrapper.dll",
     "granny2_x64.dll",
-    "granny2_x64.lib",
-    "Newtonesoft.Json.dll",
-    "System.Management.dll"
-    
+    "Newtonsoft.Json.dll",
+    "System.Management.dll",
+    "Languages/de.json",
+    "Languages/en.json",
+    "Languages/tr.json"
   ],
-  "changelog": "✨ Neue Features\\n• Feature 1\\n• Feature 2"
+  "changelog": "✨ Neue Features:\n• Automatisches Update-System\n• Verbesserte Performance\n\n🐛 Bug Fixes:\n• Diverse Fehlerbehebungen"
 }
