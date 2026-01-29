@@ -3,6 +3,7 @@
   "releaseDate": "2026-01-29",
   "downloadUrl": "https://raw.githubusercontent.com/TheJonesx/updater/main/files/",
   "files": [
+    "Updater.exe",
     "MSMCreator.exe",
     "MSMCreator.dll",
     "MSMCreator.deps.json",
